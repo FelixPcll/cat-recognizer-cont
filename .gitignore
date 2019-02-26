@@ -1,0 +1,7 @@
+# ignore img and data files
+*.jpg
+*.npy
+*.h5
+
+# ignore all config/temp folders
+.*/
